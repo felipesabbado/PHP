@@ -22,8 +22,15 @@ echo "<br>";
 echo "Other functions: \n";
 echo "Absolute «abs(-6.7)»: " . abs(-6.7);
 echo "<br>";
-echo "Square «root sqrt(9)»: " . sqrt(9);
+echo "Square root «sqrt(9)»: " . sqrt(9);
 echo "<br>";
+echo "Round «round(0.60)»: " . round(0.60);
+echo "<br>";
+echo "Round «round(0.49)»: " . round(0.49);
+echo "<br>";
+echo "Random numbers «rand()»:" . rand();
+echo "<br>";
+echo "Random between two numbers «rand(10, 100)»: " . rand(0,100);
 ?>
     </pre>
 </h3>
