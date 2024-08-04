@@ -1,8 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
 <body>
 <h3>
-    <pre>
+	<pre>
 <?php
 $a = 5;
 $b = 5.34;
@@ -34,11 +39,11 @@ echo "Número b é decimal\n";
 var_dump(is_float($b));
 echo "</br>";
 ?>
-    </pre>
+	</pre>
 </h3>
 
 <h2>
-    <a href="index.php">Home Page</a>
+	<a href="index.php">Home Page</a>
 </h2>
 </body>
 </html>
