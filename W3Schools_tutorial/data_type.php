@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
 <body>
+
+<h2>
+	<a href="index.php">Home Page</a>
+</h2>
+
 <h3>
 	<pre>
 <?php
@@ -46,8 +51,10 @@ echo "<br>";
 ?>
 	<pre>
 </h3>
+
 <h2>
-	<a href="index.php">Home Page</a>
+    <a href="index.php">Home Page</a>
 </h2>
+
 </body>
 </html>

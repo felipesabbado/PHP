@@ -6,6 +6,11 @@
     <title>Document</title>
 </head>
 <body>
+
+<h2>
+	<a href="index.php">Home Page</a>
+</h2>
+
 <h3>
     <pre>
 <?php
@@ -38,5 +43,6 @@ echo "Random between two numbers «rand(10, 100)»: " . rand(0,100);
 <h2>
 	<a href="index.php">Home Page</a>
 </h2>
+
 </body>
 </html>

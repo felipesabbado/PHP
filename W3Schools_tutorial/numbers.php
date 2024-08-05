@@ -6,6 +6,11 @@
     <title>Document</title>
 </head>
 <body>
+
+<h2>
+    <a href="index.php">Home Page</a>
+</h2>
+
 <h3>
 	<pre>
 <?php

@@ -12,6 +12,8 @@
 			<li><a href="strings.php">Strings</a></li>
 			<li><a href="numbers.php">Numbers</a></li>
 			<li><a href="math.php">Math</a></li>
+			<li><a href="forms.php">Forms</a></li>
+			<li><a href="form_validation.php">Form Validation</a></li>
 		</ul>
 	</h2>
 
