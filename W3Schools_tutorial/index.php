@@ -14,9 +14,12 @@
 			<li><a href="math.php">Math</a></li>
 			<li><a href="forms.php">Forms</a></li>
 			<li><a href="form_validation.php">Form Validation</a></li>
+			<li><a href="date.php">Date</a></li>
+			<li><a href="file.php">File Handling</a></li>
 		</ul>
 	</h2>
 
 	<p>PHP Version: <?php echo phpversion(); ?></p>
+	<p>Copyright&copy; <?php echo date("Y");?></p>
 </body>
 </html>
