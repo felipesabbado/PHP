@@ -16,10 +16,14 @@
 			<li><a href="form_validation.php">Form Validation</a></li>
 			<li><a href="date.php">Date</a></li>
 			<li><a href="file.php">File Handling</a></li>
+			<li><a href="file_create.php">File Create/Write</a></li>
 		</ul>
 	</h2>
 
 	<p>PHP Version: <?php echo phpversion(); ?></p>
+	<p>Brower used: <?php 
+	echo $_SERVER['HTTP_USER_AGENT'];
+	?></p>
 	<p>Copyright&copy; <?php echo date("Y");?></p>
 </body>
 </html>
