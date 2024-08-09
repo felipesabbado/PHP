@@ -52,3 +52,6 @@ while(!feof($myfile)) {
 fclose($myfile);
 ?>
 
+<h2>
+	<a href="index.php">Home Page</a>
+</h2>
